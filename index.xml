@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Malia Theissen</title>
-    <link>http://maliatheissen.de/</link>
+    <link>http://sirtoi3i.github.io/mtDraft/</link>
     <description>Recent content on Malia Theissen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <atom:link href="http://maliatheissen.de/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://sirtoi3i.github.io/mtDraft/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

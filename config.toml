@@ -55,7 +55,7 @@ canonifyurls= true
 
 	# Services section
 	[params.services]
-		title = "Services"
+		title = "Leistungen"
 		subtitle = "Lorem ipsum dolor sit amet consectetur."
 
 		[[params.services.list]]
